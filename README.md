@@ -4,7 +4,6 @@ I'm a PhD student in semiconductor physics that decided to change the carreer pa
 
 - I'm currently working on:
     - my PhD about artificial synapses for neuromorphic computing and hardware neural networks
-    - 
 
 - I'm currently learning:
     - Python - I'm a self-taught programmer, still trying to improve my skills
